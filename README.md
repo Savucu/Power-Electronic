@@ -1,2 +1,2 @@
 # Power-Electronic
-Devre Simülasyonları
+LTspice Üzerinden Devre Simülasyonları
